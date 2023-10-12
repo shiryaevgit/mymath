@@ -28,7 +28,7 @@ func Ceil(x float64) float64 {
 	return math.Ceil(x)
 }
 
-func Floorr(x float64) float64 {
+func Floor(x float64) float64 {
 	return math.Floor(x)
 }
 func Pow(x, y float64) float64 {
